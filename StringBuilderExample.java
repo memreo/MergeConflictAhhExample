@@ -3,7 +3,7 @@ public class StringBuilderExample {
         StringBuilder builder = new StringBuilder("Hello");
 
         // Modify the string using append
-        builder.append(" World");
+        builder.append(" Mars lmao");
         builder.append("!");
         
         System.out.println(builder.toString()); // Output: Hello World!
